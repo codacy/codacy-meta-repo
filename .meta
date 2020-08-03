@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "repos/repo-b": "git@github.com:axe-github/repo-b.git",
+    "repos/repo-c": "git@github.com:axe-github/repo-c.git",
+    "repos/repo-d": "git@github.com:axe-github/repo-d.git"
+  }
+}
