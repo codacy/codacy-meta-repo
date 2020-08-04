@@ -7,6 +7,8 @@ It allows to do operations on multiple **public** repos of this organization.
 * Node
 * https://github.com/octokit/rest.js
 * https://github.com/mateodelnorte/meta
+  * https://github.com/mateodelnorte/meta-loop
+    * `npm install meta-loop -g`
 * PERSONAL_GITHUB_TOKEN with read:org
 
 ### How to update/clone
