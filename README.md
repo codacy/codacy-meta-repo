@@ -1,4 +1,4 @@
-# axe-github meta-repo
+# Codacy meta-repo
 
 It allows to do operations on multiple **public** repos of this organization.
 
