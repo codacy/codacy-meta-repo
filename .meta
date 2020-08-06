@@ -74,7 +74,6 @@
     "repos/codacy-ameba": "git@github.com:codacy/codacy-ameba.git",
     "repos/api-tools": "git@github.com:codacy/api-tools.git",
     "repos/ssmeb": "git@github.com:codacy/ssmeb.git",
-    "repos/alpakka-kafka-backport": "git@github.com:codacy/alpakka-kafka-backport.git",
     "repos/codacy-orbs": "git@github.com:codacy/codacy-orbs.git",
     "repos/helm-ssm": "git@github.com:codacy/helm-ssm.git",
     "repos/codacy-spotbugs": "git@github.com:codacy/codacy-spotbugs.git",
