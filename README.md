@@ -1,4 +1,4 @@
-# Codacy meta-repo
+# Codacy meta-repo test
 
 It allows to do operations on multiple **public** repos of this organization.
 
