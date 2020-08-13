@@ -111,6 +111,6 @@
     "repos/codacy-coverage-reporter-action": "git@github.com:codacy/codacy-coverage-reporter-action.git",
     "repos/codacy-engine-typescript-seed": "git@github.com:codacy/codacy-engine-typescript-seed.git",
     "repos/dots2": "git@github.com:codacy/dots2.git",
-    "repos/codacy-template": "git@github.com:codacy/codacy-template.git"
+    "repos/codacy-public-template": "git@github.com:codacy/codacy-public-template.git"
   }
 }
