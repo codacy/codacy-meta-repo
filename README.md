@@ -16,7 +16,7 @@ among different repositories.
 ## Using codacy-meta-repo
 
 Feel free to check [meta](https://github.com/mateodelnorte/meta) for better understanding
-the underlying tool. This repository has some scripts to help you on opreations for
+the underlying tool. This repository has some scripts to help you on operations for
 all tracked repositories.
 
 ### Updating and cloning the tracked repositories
