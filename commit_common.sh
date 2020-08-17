@@ -11,9 +11,7 @@ echo "You are commiting the contents of $COMMON_FOLDER on every tracked repo wit
 echo "> $COMMIT_MESSAGE"
 echo ""
 
-echo "Do you want to continue? (y/n)"
-
-read input
+read -p "Do you want to continue? (y/n) " input
 if [[ "$input" =~ ^(y|Y|yes|Yes)$ ]]; then
     echo "Copying files to every tracked repo"
     meta loop "cp -r $COMMON_FOLDER ."
