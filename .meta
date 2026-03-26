@@ -20,7 +20,6 @@
     "repos/codacy-duplication-phpcpd": "git@github.com:codacy/codacy-duplication-phpcpd.git",
     "repos/codacy-checkstyle": "git@github.com:codacy/codacy-checkstyle.git",
     "repos/codacy-duplication-flay": "git@github.com:codacy/codacy-duplication-flay.git",
-    "repos/codacy-macros": "git@github.com:codacy/codacy-macros.git",
     "repos/codacy-bandit": "git@github.com:codacy/codacy-bandit.git",
     "repos/codacy-scalameta": "git@github.com:codacy/codacy-scalameta.git",
     "repos/codacy-shellcheck": "git@github.com:codacy/codacy-shellcheck.git",
